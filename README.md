@@ -1,4 +1,4 @@
-Customer Segmentation Exploratory Data Analysis
+# Customer Segmentation Exploratory Data Analysis
  
 This dataset is of customers from supermarket mall and through membership cards, we have some basic data about customers like Customer ID, age, gender, annual income and spending score. Spending Score is something assigned to the customer based on some defined parameters like customer behavior and purchasing data, etc.
 
